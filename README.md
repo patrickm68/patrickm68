@@ -20,4 +20,4 @@ As a creative developer, I am motivated by the rigorous, logical, thought proces
 
 In my free time, I enjoy reading and creative writing, particularly short fiction. I also greatly enjoy video games, game design, and development.
 
-Thank you for visiting my profile!
+👻 Thank you for visiting my profile! 👻
