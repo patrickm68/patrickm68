@@ -5,7 +5,7 @@
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Software%20Development;10+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&left=true&width=440&height=45&color=f75c7e&vleft=true&size=22"></a>
 
-[![](https://visitcount.itsvg.in/api?id=patrickm68&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickm68&label=Profile%20views&color=0e75b6&style=flat" alt="patrickm68" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
@@ -15,3 +15,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickm68&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=patrickm68&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patrickm68&theme=radical&hide_border=false)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
